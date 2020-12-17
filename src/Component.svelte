@@ -1,7 +1,7 @@
 <svelte:options accessors/>
 
 <style global>
-@import '/filepond/dist/filepond.min.css';
+@import '/node_modules/filepond/dist/filepond.min.css';
 </style>
 
 <script>
